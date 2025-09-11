@@ -1,6 +1,7 @@
 # 📊 Most Used Languages
 
-![Portugues](most_used_languages.png)
+![Portugues,
+Ingles](most_used_languages.png)
 
 ### 📌 LINGUAGEM CONHECIDAS
 - 🧱**Java**
