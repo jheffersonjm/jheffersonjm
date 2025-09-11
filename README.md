@@ -96,7 +96,7 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas — Senac-PR
 ![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
-
+![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
 ---
 
 ## 🌐 Ver versão HTML do currículo
