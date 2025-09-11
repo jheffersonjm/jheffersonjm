@@ -1,0 +1,11 @@
+# 📊 Most Used Languages
+
+![Most Used Languages](most_used_languages.png)
+
+### 📌 Legend
+- 🟫 **Java** – 50%
+- 🩷 **C++** – 10%
+- 🟪 **CSS** – 20%
+- 🟥 **Dart** – 11%
+- ⚫ **C** – 10%
+- 🟧 **HTML** – 20%
