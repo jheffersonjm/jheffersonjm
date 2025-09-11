@@ -9,3 +9,8 @@
 - 💽**C** 
 - 🔎 **HTML**
 - 🐍 **Python**
+- 🎲**PGPLSQL**
+
+## 🎲BANCO DE DADOS CONHECIDOS
+- 🐘 **POSTGRES**
+- 🐬 **MySQL**
