@@ -72,8 +72,10 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas — Senac-PR
 | 📱 Dart | 30% |
 | 💽 C | 20% |
 | 🔎 HTML | 20% |
+| ✨ JavaScript | 15% |
 | 🐍 Python | 10% |
 | 🎲 PL/pgSQL | 30% |
+
 
 ### Banco de dados conhecidos
 
@@ -97,6 +99,8 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas — Senac-PR
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?logo=node.js&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
 ---
 
 ## 🌐 Ver versão HTML do currículo
