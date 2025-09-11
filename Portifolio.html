@@ -1,32 +1,174 @@
 <!DOCTYPE html>
-<html lang="en">
+<html lang="pt-BR">
 <head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Currículo — Jhefferson Matheus Dalla Costa</title>
+  <meta name="description" content="Currículo de Jhefferson Matheus Dalla Costa: contato, objetivo, resumo, competências, experiência, formação e cursos." />
+  <style>
+    :root {
+      --bg: #0f1220;
+      --card: #161a2b;
+      --text: #e6e6f0;
+      --muted: #aab;
+      --accent: #4f46e5;
+      --border: #252a41;
+    }
+    * { box-sizing: border-box; }
+    html, body { height: 100%; }
+    body {
+      margin: 0;
+      padding: 24px;
+      font-family: system-ui, -apple-system, Segoe UI, Roboto, Inter, Helvetica, Arial, sans-serif;
+      line-height: 1.6;
+      color: var(--text);
+      background: linear-gradient(180deg, #0b0e1a, #0f1220 30%, #0f1220 70%, #0b0e1a);
+    }
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+    }
+    header {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 24px;
+      margin-bottom: 20px;
+      box-shadow: 0 10px 30px rgba(0,0,0,0.25);
+    }
+    h1 {
+      margin: 0 0 8px 0;
+      font-size: 1.8rem;
+    }
+    .subtitle { color: var(--muted); margin: 0; }
+    section {
+      background: var(--card);
+      border: 1px solid var(--border);
+      border-radius: 12px;
+      padding: 20px;
+      margin-bottom: 16px;
+    }
+    h2 { font-size: 1.2rem; margin: 0 0 12px 0; color: var(--text); }
+    ul { margin: 0; padding-left: 18px; }
+    li { margin: 4px 0; }
+    .contact { list-style: none; padding: 0; }
+    .contact li { margin: 4px 0; }
+    .job-title { font-weight: 600; }
+    .muted { color: var(--muted); }
+    .stack {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+      gap: 16px;
+    }
+    .lang-card {
+      background: #1e1e2f;
+      border: 1px solid #2a2f4a;
+      border-radius: 10px;
+      padding: 16px;
+    }
+    .lang-row { display: grid; grid-template-columns: 110px 1fr 48px; align-items: center; gap: 10px; margin: 8px 0; font-size: 14px; }
+    .bar { height: 10px; background: #2b2f45; border-radius: 6px; overflow: hidden; }
+    .bar > span { display: block; height: 100%; border-radius: 6px; }
+    .java { background: #b07219; }
+    .cpp { background: #f34b7d; }
+    .css { background: #563d7c; }
+    .dart { background: #db4c3f; }
+    .c { background: #555555; }
+    .html { background: #e34c26; }
+    a { color: var(--text); text-decoration: none; border-bottom: 1px dotted var(--muted); }
+    a:hover { color: white; border-bottom-color: white; }
+  </style>
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <meta name="color-scheme" content="dark light" />
+  <meta name="theme-color" content="#0f1220" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="robots" content="noindex, nofollow" />
+  
 </head>
 <body>
-     <div style="background-color: #1e1e2f; padding: 20px; width: 300px; border: 1px solid red; border-radius: 8px; font-family: sans-serif; color: white;">
-  <h3 style="color: #ff4c4c;">Most Used Languages</h3>
-      <div style="height: 10px; background: linear-gradient(
-        to right,
-        #b07219 50%,
-        #f34b7d 10%,
-        #563d7c 10%,
-        #db4c3f 10%,
-        #555555 10%,
-        #e34c26 10%
-      ); border-radius: 5px; margin-bottom: 10px;"></div>
+  <div class="container">
+    <header>
+      <h1>Currículo — Jhefferson Matheus Dalla Costa</h1>
+      <p class="subtitle">Tecnologia da Informação • Santa Lúcia – PR</p>
+    </header>
 
-      <ul style="list-style: none; padding: 0; font-size: 14px;">
-        <li><span style="color: #b07219;">●</span> Java 50%</li>
-        <li><span style="color: #f34b7d;">●</span> C++ 10%</li>
-        <li><span style="color: #563d7c;">●</span> CSS 20%</li>
-        <li><span style="color: #db4c3f;">●</span> Dart 11%</li>
-        <li><span style="color: #555555;">●</span> C 10%</li>
-        <li><span style="color: #e34c26;">●</span> HTML 20%</li>
+    <section aria-labelledby="contato">
+      <h2 id="contato">Contato</h2>
+      <ul class="contact">
+        <li><strong>Cidade:</strong> Santa Lúcia – PR</li>
+        <li><strong>Telefone:</strong> <a href="tel:+5545991377631" aria-label="Ligar para +55 45 99137-7631">+55 (45) 99137-7631</a></li>
+        <li><strong>E-mail:</strong> <a href="mailto:jheffersonmatheus2017@gmail.com">jheffersonmatheus2017@gmail.com</a></li>
+        <li><strong>LinkedIn:</strong> Jhefferson JM</li>
       </ul>
-</div>
+    </section>
 
+    <section aria-labelledby="objetivo">
+      <h2 id="objetivo">Objetivo</h2>
+      <p>Atuar na área de Tecnologia da Informação, contribuindo com minhas habilidades técnicas e minha vontade de aprender para o crescimento da empresa.</p>
+    </section>
+
+    <section aria-labelledby="resumo">
+      <h2 id="resumo">Resumo profissional</h2>
+      <p>Profissional dedicado e proativo, com interesse constante em aprender e se desenvolver. Conhecimentos em programação, redes de computadores e estruturação de projetos.</p>
+    </section>
+
+    <section aria-labelledby="competencias">
+      <h2 id="competencias">Competências</h2>
+      <ul>
+        <li><strong>Programação:</strong> Java (lógica e orientação a objetos)</li>
+        <li><strong>Front-end:</strong> Angular (básico)</li>
+        <li><strong>Versionamento:</strong> Git e GitHub</li>
+        <li><strong>Hardware:</strong> montagem e manutenção de computadores</li>
+        <li><strong>Low-code/No-code:</strong> FlutterFlow (básico)</li>
+        <li><strong>Redes de computadores:</strong> conceitos básicos</li>
+        <li>Organização, trabalho em equipe e foco em resultados</li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="experiencia">
+      <h2 id="experiencia">Experiência profissional</h2>
+      <p class="job-title">Modalar Materiais de Limpeza — Auxiliar de Produção</p>
+      <p class="muted">Mar/2021 – Out/2024</p>
+      <p><strong>Atividades:</strong></p>
+      <ul>
+        <li>Montagem de pedidos</li>
+        <li>Organização de materiais</li>
+        <li>Apoio na logística de expedição</li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="formacao">
+      <h2 id="formacao">Formação acadêmica</h2>
+      <p><strong>Tecnólogo em Análise e Desenvolvimento de Sistemas</strong> — Senac-PR</p>
+      <p class="muted">2024 – 2025 (cursando)</p>
+    </section>
+
+    <section aria-labelledby="cursos">
+      <h2 id="cursos">Cursos complementares</h2>
+      <ul>
+        <li>Java – Lógica de Programação e Desenvolvimento Orientado a Objetos (Loiane) — 30 h</li>
+        <li>Angular Básico (Loiane) — 28 h</li>
+        <li>Java Intermediário (Loiane) — 9 h</li>
+        <li>Montagem e Manutenção de Computadores (Udemy) — 7,5 h</li>
+        <li>FlutterFlow (Udemy) — 15 h</li>
+        <li>Git e GitHub Essencial para o Desenvolvedor — 12 h</li>
+      </ul>
+    </section>
+
+    <section aria-labelledby="linguagens">
+      <h2 id="linguagens">Linguagens mais usadas</h2>
+      <div class="stack">
+        <div class="lang-card" role="region" aria-label="Linguagens e proficiência">
+          <div class="lang-row"><span>Java</span><div class="bar" aria-hidden="true"><span class="java" style="width: 50%"></span></div><span class="muted">50%</span></div>
+          <div class="lang-row"><span>C++</span><div class="bar" aria-hidden="true"><span class="cpp" style="width: 10%"></span></div><span class="muted">10%</span></div>
+          <div class="lang-row"><span>CSS</span><div class="bar" aria-hidden="true"><span class="css" style="width: 20%"></span></div><span class="muted">20%</span></div>
+          <div class="lang-row"><span>Dart</span><div class="bar" aria-hidden="true"><span class="dart" style="width: 11%"></span></div><span class="muted">11%</span></div>
+          <div class="lang-row"><span>C</span><div class="bar" aria-hidden="true"><span class="c" style="width: 10%"></span></div><span class="muted">10%</span></div>
+          <div class="lang-row"><span>HTML</span><div class="bar" aria-hidden="true"><span class="html" style="width: 20%"></span></div><span class="muted">20%</span></div>
+        </div>
+      </div>
+    </section>
+
+  </div>
 </body>
 </html>
