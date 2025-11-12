@@ -110,6 +110,6 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas — Senac-PR
 
 --- 
 ## Aviso
-- No dia 10 de Novembro de 2025 tera uma modificação no projeto e ele vai ficar privado por 20 dias
+- No dia 10 de Novembro de 2025 tera uma modificação no projeto ESTUDO_DA_FACULDADE e ele vai ficar privado por 20 dias.
 
 ## Obriagado pela atenção
