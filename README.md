@@ -108,8 +108,3 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas — Senac-PR
 - Local: abra `Portifolio.html` no seu navegador.
 - GitHub: o HTML é exibido como código. Para uma página, ative o GitHub Pages ou hospede o arquivo.
 
---- 
-## Aviso
-- No dia 10 de Novembro de 2025 tera uma modificação no projeto ESTUDO_DA_FACULDADE e ele vai ficar privado por 20 dias.
-
-## Obriagado pela atenção
