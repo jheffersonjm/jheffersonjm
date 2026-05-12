@@ -36,6 +36,11 @@ Profissional dedicado e proativo, com interesse constante em aprender e se desen
 - Redes de computadores: conceitos básicos
 - Organização, trabalho em equipe e foco em resultados
 
+## 🚀 Projetos públicos no GitHub
+- [product_management](https://github.com/jheffersonjm/product_management) — Cadastro e gerenciamento de produtos com CRUD, login simples com dados mockados e organização por classes.
+- [Spring-Bott_E_Angular-Projeto_Filme](https://github.com/jheffersonjm/Spring-Bott_E_Angular-Projeto_Filme) — Projeto voltado ao cadastro de filmes, com abordagem integrada entre back-end e front-end.
+- [jheffersonjm](https://github.com/jheffersonjm/jheffersonjm) — Repositório do perfil com o currículo e a página de apresentação usados como portfólio público.
+
 ### 💼 Experiência profissional
 **Modalar Materiais de Limpeza** — Auxiliar de Produção  
 Mar/2021 – Out/2024

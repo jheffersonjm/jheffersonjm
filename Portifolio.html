@@ -4,7 +4,7 @@
   <meta charset="UTF-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1.0" />
   <title>Currículo — Jhefferson Matheus Dalla Costa</title>
-  <meta name="description" content="Currículo de Jhefferson Matheus Dalla Costa: contato, objetivo, resumo, competências, experiência, formação e cursos." />
+  <meta name="description" content="Currículo e portfólio de Jhefferson Matheus Dalla Costa: contato, objetivo, resumo, competências, projetos públicos no GitHub, experiência, formação e cursos." />
   <style>
     :root {
       --bg: #0f1220;
@@ -60,6 +60,57 @@
       grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
       gap: 16px;
     }
+    .project-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+      gap: 16px;
+    }
+    .project-card {
+      background: linear-gradient(180deg, #1b2034, #171b2d);
+      border: 1px solid #2a3050;
+      border-radius: 12px;
+      padding: 16px;
+      display: flex;
+      flex-direction: column;
+      gap: 12px;
+      min-height: 100%;
+    }
+    .project-card h3 {
+      margin: 0;
+      font-size: 1.05rem;
+    }
+    .project-card p {
+      margin: 0;
+      color: var(--muted);
+    }
+    .project-meta {
+      display: flex;
+      flex-wrap: wrap;
+      gap: 8px;
+      align-items: center;
+    }
+    .tag {
+      display: inline-flex;
+      align-items: center;
+      padding: 4px 10px;
+      border-radius: 999px;
+      background: rgba(79, 70, 229, 0.15);
+      border: 1px solid rgba(79, 70, 229, 0.35);
+      color: #d8dcff;
+      font-size: 12px;
+      letter-spacing: 0.02em;
+    }
+    .project-link {
+      margin-top: auto;
+      display: inline-flex;
+      width: fit-content;
+      align-items: center;
+      gap: 8px;
+      padding: 8px 12px;
+      border-radius: 8px;
+      border: 1px solid rgba(170, 170, 187, 0.3);
+      background: rgba(255, 255, 255, 0.03);
+    }
     .lang-card {
       background: #1e1e2f;
       border: 1px solid #2a2f4a;
@@ -99,6 +150,7 @@
         <li><strong>Telefone:</strong> <a href="tel:+5545991377631" aria-label="Ligar para +55 45 99137-7631">+55 (45) 99137-7631</a></li>
         <li><strong>E-mail:</strong> <a href="mailto:jheffersonmatheus2017@gmail.com">jheffersonmatheus2017@gmail.com</a></li>
         <li><strong>LinkedIn:</strong> Jhefferson JM</li>
+        <li><strong>GitHub:</strong> <a href="https://github.com/jheffersonjm" target="_blank" rel="noreferrer">github.com/jheffersonjm</a></li>
       </ul>
     </section>
 
@@ -123,6 +175,41 @@
         <li><strong>Redes de computadores:</strong> conceitos básicos</li>
         <li>Organização, trabalho em equipe e foco em resultados</li>
       </ul>
+    </section>
+
+    <section aria-labelledby="projetos">
+      <h2 id="projetos">Projetos públicos no GitHub</h2>
+      <div class="project-grid">
+        <article class="project-card">
+          <div class="project-meta">
+            <span class="tag">Java / CRUD</span>
+            <span class="muted">Repositório público</span>
+          </div>
+          <h3>product_management</h3>
+          <p>Cadastro e gerenciamento de produtos com CRUD, login simples com dados mockados e organização por classes.</p>
+          <a class="project-link" href="https://github.com/jheffersonjm/product_management" target="_blank" rel="noreferrer">Ver projeto no GitHub</a>
+        </article>
+
+        <article class="project-card">
+          <div class="project-meta">
+            <span class="tag">HTML / Spring Boot + Angular</span>
+            <span class="muted">Repositório público</span>
+          </div>
+          <h3>Spring-Bott_E_Angular-Projeto_Filme</h3>
+          <p>Projeto voltado ao cadastro de filmes, explorando uma abordagem integrada entre back-end e front-end.</p>
+          <a class="project-link" href="https://github.com/jheffersonjm/Spring-Bott_E_Angular-Projeto_Filme" target="_blank" rel="noreferrer">Ver projeto no GitHub</a>
+        </article>
+
+        <article class="project-card">
+          <div class="project-meta">
+            <span class="tag">Portfólio</span>
+            <span class="muted">Repositório do perfil</span>
+          </div>
+          <h3>jheffersonjm</h3>
+          <p>Repositório do perfil com o currículo e a página de apresentação usados como portfólio público.</p>
+          <a class="project-link" href="https://github.com/jheffersonjm/jheffersonjm" target="_blank" rel="noreferrer">Ver projeto no GitHub</a>
+        </article>
+      </div>
     </section>
 
     <section aria-labelledby="experiencia">
