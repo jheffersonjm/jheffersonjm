@@ -6,7 +6,6 @@
 Desenvolvedor em formação, apaixonado por tecnologia, sempre aprendendo e construindo projetos.
 
 [![Abrir Portfólio HTML](https://img.shields.io/badge/Ver%20Portf%C3%B3lio-HTML5-orange?logo=html5&logoColor=white)](./Portifolio.html)
-[![LinkedIn]([www.linkedin.com/in/jhefferson-matheus-dalla-costa-5367a61a6](https://img.shields.io/badge/LinkedIn-Jhefferson%20JM-0A66C2?logo=linkedin&logoColor=white))](#)
 [![Contato](https://img.shields.io/badge/Contato-WhatsApp-25D366?logo=whatsapp&logoColor=white)](tel:+5545991377631)
 
 </div>
