@@ -45,9 +45,6 @@ Profissional dedicado e proativo, com interesse constante em aprender e se desen
 Tecnólogo em Análise e Desenvolvimento de Sistemas — Senac-PR  
 2024 – 2025 (cursando)
 
-## 📊 Linguagens e Tecnologias
-
-![Gráfico de Linguagens](most_used_languages.png)
 
 ### Linguagens conhecidas (estimativas)
 
