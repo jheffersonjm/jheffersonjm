@@ -18,7 +18,7 @@ Desenvolvedor em formação, apaixonado por tecnologia, sempre aprendendo e cons
 - Cidade: Santa Lúcia – PR  
 - Telefone: +55 (45) 99137-7631  
 - E-mail: jheffersonmatheus2017@gmail.com  
-- LinkedIn: Jhefferson JM
+- LinkedIn: Jhefferson Matheus Dalla Costa
 
 ### 🎯 Objetivo
 Atuar na área de Tecnologia da Informação, contribuindo com minhas habilidades técnicas e minha vontade de aprender para o crescimento da empresa.
