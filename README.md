@@ -40,28 +40,10 @@ Profissional dedicado e proativo, com interesse constante em aprender e se desen
 - [Spring-Bott_E_Angular-Projeto_Filme](https://github.com/jheffersonjm/Spring-Bott_E_Angular-Projeto_Filme) — Projeto voltado ao cadastro de filmes, com abordagem integrada entre back-end e front-end.
 - [jheffersonjm](https://github.com/jheffersonjm/jheffersonjm) — Repositório do perfil com o currículo e a página de apresentação usados como portfólio público.
 
-### 💼 Experiência profissional
-**Modalar Materiais de Limpeza** — Auxiliar de Produção  
-Mar/2021 – Out/2024
-
-Atividades:
-- Montagem de pedidos
-- Organização de materiais
-- Apoio na logística de expedição
 
 ### 🎓 Formação acadêmica
 Tecnólogo em Análise e Desenvolvimento de Sistemas — Senac-PR  
 2024 – 2025 (cursando)
-
-### 📚 Cursos complementares
-- Java – Lógica de Programação e Desenvolvimento Orientado a Objetos (Loiane) — 30 h
-- Angular Básico (Loiane) — 28 h
-- Java Intermediário (Loiane) — 9 h
-- Montagem e Manutenção de Computadores (Udemy) — 7,5 h
-- FlutterFlow (Udemy) — 15 h
-- Git e GitHub Essencial para o Desenvolvedor — 12 h
-
----
 
 ## 📊 Linguagens e Tecnologias
 
