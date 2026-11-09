@@ -15,8 +15,7 @@ Desenvolvedor em formação, apaixonado por tecnologia, sempre aprendendo e cons
 ## 🧾 Currículo
 
 ### 📍 Contato
-- Cidade: Santa Lúcia – PR  
-- Telefone: +55 (45) 99137-7631  
+- Cidade: Santa Lúcia – PR    
 - E-mail: jheffersonmatheus2017@gmail.com  
 - LinkedIn: Jhefferson Matheus Dalla Costa
 
@@ -48,15 +47,13 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas — Senac-PR
 
 ### Linguagens conhecidas (estimativas)
 
-| Linguagem | Nível |
+| Tecnologia | Nível |
 |---|---|
 | 🧱 Java | 50% |
-| 📀 C++ | 10% |
-| 📱 Dart | 30% |
-| 💽 C | 20% |
+| 📱 Dart | 5% |
+| 💽 C | 5% |
 | 🔎 HTML | 20% |
 | ✨ JavaScript | 15% |
-| 🐍 Python | 10% |
 | 🎲 PL/pgSQL | 30% |
 
 
@@ -72,7 +69,6 @@ Tecnólogo em Análise e Desenvolvimento de Sistemas — Senac-PR
 ## ⚙️ Stack e Badges
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?logo=c%2B%2B&logoColor=white)
 ![Dart](https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
